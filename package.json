@@ -1,0 +1,18 @@
+{
+  "name": "algo_exo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:1": "jest algo1",
+    "test:2": "jest algo2",
+    "test:3": "jest algo3",
+    "test:4": "jest algo4",
+    "test:5": "jest algo5"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
