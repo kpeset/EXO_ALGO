@@ -9,7 +9,7 @@ Pour commencer, suivez ces étapes :
 1. **Clone ce dépôt** sur ton ordi :
 
    ```bash
-   git clone git@github.com:kpeset/ALGO_EXO.git
+   git clone git@github.com:kpeset/EXO_ALGO.git
    ```
 
 2. **Ouvre le dépôt dans VSCODE**
